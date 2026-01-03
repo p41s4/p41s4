@@ -28,4 +28,4 @@ I <3 n8n.
 
 [+] email   : p41s4@anonmail.com
 [+] x       : @p41s4
-[+] linkedin: i don't like it.
+[+] linkedin : i don't like it.
