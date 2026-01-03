@@ -3,7 +3,7 @@ ACCESS GRANTED
 
 USER:   @p41s4
 ROLE:   Threat Intelligence Analyst | Cybercrime Investigator
-
+FORMATION:  FOR589 - master's degree in cyberintelligence - master's degree in cybersecurity
 ---
 
 ## whoami
