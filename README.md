@@ -3,7 +3,6 @@ ACCESS GRANTED
 
 USER:   @p41s4
 ROLE:   Threat Intelligence Analyst | Cybercrime Investigator
-SOCIAL: xxxxxx
 
 ---
 
