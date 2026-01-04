@@ -26,5 +26,4 @@ I <3 n8n.
 ## contact
 
 [+] email   : paausala@gmail.com
-[+] x       : 
 [+] linkedin : i don't like it.
