@@ -25,6 +25,6 @@ I <3 n8n.
 
 ## contact
 
-[+] email   : p41s4@anonmail.com
-[+] x       : @p41s4
+[+] email   : paausala@gmail.com
+[+] x       : 
 [+] linkedin : i don't like it.
