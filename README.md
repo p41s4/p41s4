@@ -3,13 +3,13 @@ ACCESS GRANTED
 
 USER:   @p41s4
 ROLE:   Threat Intelligence Analyst | Cybercrime Investigator
-FORMATION:  FOR589 - master's degree in cyberintelligence - master's degree in cybersecurity
+FORMATION:  FOR610 - FOR589 - master's degree in cyberintelligence - master's degree in cybersecurity
 ---
 
 ## whoami
 
 I'm p41s4. I build things just because I need them.
-I <3 n8n.
+I have .
 
 ---
 
